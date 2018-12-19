@@ -1,0 +1,41 @@
+header{
+    border-style: ridge;
+    border: "opx;"
+    background-color:white;
+
+}
+Nav{
+    position: absolute;
+    right: 16px;
+    top: 8px;
+    font-size: 18px;
+    margin: 10px;
+
+}
+   .margin{
+       margin-top: 100px;
+       margin-bottom: 100px;
+       margin-right: 250px;
+       margin-left: 250px;
+   }
+    footer{
+        border-style:solid;
+        background-color: antiquewhite;
+        color: aqua;
+        text-align: center;
+
+    
+    }
+    .cursor{
+        cursor: context-menu;
+    }    
+    
+   #article-list{
+        background-color: aliceblue;
+        padding: 0px;
+        margin: 8px;S
+    }
+
+    
+    
+     
